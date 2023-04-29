@@ -1652,3 +1652,40 @@ java.net.SocketException: Connection reset
 2023-04-29 11:31:10,274 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
 2023-04-29 11:31:10,279 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
 2023-04-29 11:31:21,121 [INFO] Gpio:272 - dependency for GPIO [I2C1, SPI1, USB]
+2023-04-29 14:18:48,220 [INFO] Gpio:272 - dependency for GPIO [I2C1, SPI1, SYS, USB]
+2023-04-29 14:20:25,330 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 576988800 Bytes (843055104)
+2023-04-29 14:20:26,324 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 587474560 Bytes (843055104)
+2023-04-29 14:20:26,448 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 599531136 Bytes (843055104)
+2023-04-29 14:20:26,609 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RTC
+2023-04-29 14:20:26,609 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: SPI
+2023-04-29 14:20:26,610 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: NVIC
+2023-04-29 14:20:26,610 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: USB
+2023-04-29 14:20:26,610 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: SYS
+2023-04-29 14:20:26,610 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: GPIO
+2023-04-29 14:20:26,610 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: RCC
+2023-04-29 14:20:26,610 [INFO] BlockDiagram:2753 - set Specific Code input for plugin: I2C
+2023-04-29 14:20:26,611 [INFO] CodeGenerator:690 - code generatio: config db path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\
+2023-04-29 14:20:26,729 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\MXTmpFiles\license.tmp_save
+2023-04-29 14:20:26,829 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\MXTmpFiles\license.tmp
+2023-04-29 14:20:26,868 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\MXTmpFiles\gpio.tmp_save
+2023-04-29 14:20:26,932 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\MXTmpFiles\gpio.tmp
+2023-04-29 14:20:27,065 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Src\stm32l0xx_it.c_save
+2023-04-29 14:20:27,160 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Src\stm32l0xx_it.c
+2023-04-29 14:20:27,169 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Inc\stm32l0xx_it.h_save
+2023-04-29 14:20:27,241 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Inc\stm32l0xx_it.h
+2023-04-29 14:20:27,254 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Src\stm32l0xx_hal_msp.c_save
+2023-04-29 14:20:27,379 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Src\stm32l0xx_hal_msp.c
+2023-04-29 14:20:27,385 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\MXTmpFiles\system.tmp_save
+2023-04-29 14:20:27,436 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\MXTmpFiles\system.tmp
+2023-04-29 14:20:27,447 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Inc\stm32l0xx_hal_conf.h_save
+2023-04-29 14:20:27,504 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Inc\stm32l0xx_hal_conf.h
+2023-04-29 14:20:27,534 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Inc\main.h_save
+2023-04-29 14:20:27,585 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Inc\main.h
+2023-04-29 14:20:27,592 [INFO] CodeEngine:245 - oldGeneratedFile, C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Src\main.c_save
+2023-04-29 14:20:27,682 [INFO] CodeEngine:269 - Generated code: C:\Users\frede\OneDrive - USherbrooke\PROJETS\weather_pill\CODE\WeatherPill\Core\Src\main.c
+2023-04-29 14:20:28,225 [INFO] ProjectBuilder:2919 - Time for Copy HAL[1] : 226mS.
+2023-04-29 14:20:28,230 [INFO] ProjectBuilder:4117 - Project Generator version: 3.17.1
+2023-04-29 14:20:28,472 [INFO] ConfigFileManager:1394 - The Die is : DIE417
+2023-04-29 14:20:29,584 [INFO] ProjectBuilder:4285 - Time for Generating toolchain IDE Files: 1354mS.
+2023-04-29 14:20:29,585 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 1mS.
+2023-04-29 14:20:29,589 [INFO] ProjectBuilder:2790 - Time for Copy CMSIS : 0mS.

@@ -71,6 +71,10 @@ void HAL_MspInit(void)
 
   /* System interrupt init*/
 
+  /** Select which pad is connected to VREFINT_ADC
+  */
+  HAL_SYSCFG_VREFINT_OutputSelect(SYSCFG_VREFINT_OUT_PB0);
+
   /* USER CODE BEGIN MspInit 1 */
 
   /* USER CODE END MspInit 1 */
