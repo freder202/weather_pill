@@ -11,4 +11,5 @@
   (lib (name "button EVQ")(type "KiCad")(uri "${KIPRJMOD}/imported/EVQ-P7A01P")(options "")(descr ""))
   (lib (name "SHT3")(type "KiCad")(uri "${KIPRJMOD}/imported/SHTC3")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/imported/ebay_lcd/Library.pretty")(options "")(descr ""))
+  (lib (name "dpdt_switch")(type "KiCad")(uri "${KIPRJMOD}/imported/dpdt_switch.pretty")(options "")(descr ""))
 )

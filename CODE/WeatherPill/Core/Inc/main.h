@@ -61,6 +61,10 @@ void Error_Handler(void);
 #define CS_1_GPIO_Port GPIOA
 #define CS_2_Pin GPIO_PIN_4
 #define CS_2_GPIO_Port GPIOA
+#define BTN_1_Pin GPIO_PIN_8
+#define BTN_1_GPIO_Port GPIOA
+#define BTN_0_Pin GPIO_PIN_9
+#define BTN_0_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */

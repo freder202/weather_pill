@@ -1,4 +1,4 @@
-21705833051676206
+21709204276354861
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BK-912-TR
+MPD_BK-912-TR
+
+
+0
+3
+3
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -90292,6 +90299,13 @@ EVQ-P7A01P
 0
 4
 4
+dpdt_switch
+450404015514
+
+
+0
+7
+4
 lcd driver
 VQFN024V4040_ROM
 
@@ -90341,13 +90355,13 @@ sst25vf512a-33-4c-sae
 0
 8
 8
-usb con
-GCT_USB4125-GF-A_REVA2
+usb conn
+12402012E212A_AMP
 
-
+12402012E212A 
 0
-10
-10
+16
+16
 usb tvs
 SOT95P280X145-6N
 
