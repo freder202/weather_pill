@@ -12,4 +12,6 @@
   (lib (name "SHT3")(type "KiCad")(uri "${KIPRJMOD}/imported/SHTC3")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/imported/ebay_lcd/Library.pretty")(options "")(descr ""))
   (lib (name "dpdt_switch")(type "KiCad")(uri "${KIPRJMOD}/imported/dpdt_switch.pretty")(options "")(descr ""))
+  (lib (name "bk-912-tr")(type "KiCad")(uri "${KIPRJMOD}/imported/BK-912-TR")(options "")(descr ""))
+  (lib (name "USB12402012E212A")(type "KiCad")(uri "${KIPRJMOD}/imported/USB12402012E212A")(options "")(descr ""))
 )
