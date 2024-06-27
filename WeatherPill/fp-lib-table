@@ -14,4 +14,5 @@
   (lib (name "dpdt_switch")(type "KiCad")(uri "${KIPRJMOD}/imported/dpdt_switch.pretty")(options "")(descr ""))
   (lib (name "bk-912-tr")(type "KiCad")(uri "${KIPRJMOD}/imported/BK-912-TR")(options "")(descr ""))
   (lib (name "USB12402012E212A")(type "KiCad")(uri "${KIPRJMOD}/imported/USB12402012E212A")(options "")(descr ""))
+  (lib (name "green led")(type "KiCad")(uri "${KIPRJMOD}/imported/led green")(options "")(descr ""))
 )

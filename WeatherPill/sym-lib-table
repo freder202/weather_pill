@@ -10,4 +10,5 @@
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/imported/ebay_lcd/New_Library.kicad_sym")(options "")(descr ""))
   (lib (name "SHTC3")(type "KiCad")(uri "${KIPRJMOD}/imported/SHTC3/SHTC3.kicad_sym")(options "")(descr ""))
   (lib (name "buttons evq")(type "KiCad")(uri "${KIPRJMOD}/imported/EVQ-P7A01P/2023-04-26_19-19-35.kicad_sym")(options "")(descr ""))
+  (lib (name "LTST-C190GKT")(type "KiCad")(uri "${KIPRJMOD}/imported/led green/LTST-C190GKT.kicad_sym")(options "")(descr ""))
 )
