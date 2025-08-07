@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA8561AHN_AY
+D NXP - PCA8561AHN/AY - Display Driver, LCD, AEC-Q100, 18 Segments, 1.8V to 5.5V Supply, I2C Interface, HVQFN-32
+K
+F http://www.nxp.com/docs/en/data-sheet/PCA8561.pdf
+$ENDCMP
+#
+#End Doc Library
