@@ -93,38 +93,6 @@
           ""
         ],
         [
-          "silk_edge_clearance|18944999|74410000|e4388f5f-5afc-42ea-b4b3-21f070adeda5|8b20ea98-7c48-432a-9d5f-819f033c0daf",
-          ""
-        ],
-        [
-          "silk_edge_clearance|29468000|66504986|e4388f5f-5afc-42ea-b4b3-21f070adeda5|87cb6c53-a92b-4d04-98b4-24fa8a0f9012",
-          ""
-        ],
-        [
-          "silk_edge_clearance|29470120|66505000|e4388f5f-5afc-42ea-b4b3-21f070adeda5|64309ffb-f847-4569-a109-9edff1a72fa4",
-          ""
-        ],
-        [
-          "silk_edge_clearance|36088400|82500000|e4388f5f-5afc-42ea-b4b3-21f070adeda5|f741426f-a5d5-43c1-95ed-85f733478dd3",
-          ""
-        ],
-        [
-          "silk_edge_clearance|39847600|82500000|e4388f5f-5afc-42ea-b4b3-21f070adeda5|e7e78e0e-5dfe-4808-ae30-715a9cc8c577",
-          ""
-        ],
-        [
-          "silk_edge_clearance|42559600|82500000|e4388f5f-5afc-42ea-b4b3-21f070adeda5|73c0e33f-ff91-4be6-a5a1-f2f047b3cba6",
-          ""
-        ],
-        [
-          "silk_edge_clearance|46318800|82500000|e4388f5f-5afc-42ea-b4b3-21f070adeda5|6fa39104-bdf0-4bbb-96a7-aa23c0a27def",
-          ""
-        ],
-        [
-          "silk_over_copper|21978330|72450640|921a67a3-8e40-4a5a-b2ec-a1877081137b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "silk_over_copper|22323255|68672000|abf8d470-247c-4423-b379-6b1c70fbc6a1|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -138,10 +106,6 @@
         ],
         [
           "silk_over_copper|25594999|67545000|aee0e535-147b-4fb7-b76b-552efba413ef|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|25731194|81005000|87cb6c53-a92b-4d04-98b4-24fa8a0f9012|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -557,6 +521,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -603,7 +568,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/fred/Downloads/delete-temp-gerber/",
+      "plot": "rev2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
